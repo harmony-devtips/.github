@@ -7,6 +7,8 @@ This org is for someone who wants to learn how to develop Harmony OS apps or dev
 
 [鸿蒙生态应用开发白皮书V2.0.pdf](https://github.com/harmonyos-dev/.github/blob/main/whitepaper/鸿蒙生态应用开发白皮书V2.0.pdf)
 
+[鸿蒙生态应用安全技术白皮书V1.0.pdf](https://github.com/harmonyos-dev/.github/blob/main/whitepaper/鸿蒙生态应用安全技术白皮书V1.0.pdf)
+
 <!--
 
 **Here are some ideas to get you started:**
