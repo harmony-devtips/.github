@@ -1,3 +1,5 @@
+## Welcome! 👋
+
 This org is for someone who wants to learn how to develop Harmony OS apps or devices
 
 <!--
