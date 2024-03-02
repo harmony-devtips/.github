@@ -2,14 +2,15 @@
 
 This org is for someone who wants to learn how to development Harmony OS apps or devices
 
-> 鸿蒙（即 HarmonyOS，开发代号Ark[1]，正式名称为华为终端鸿蒙智能设备操作系统软件[2]）是华为公司自2012年以来开发的一款可支持鸿蒙原生应用和兼容AOSP应用的分布式操作系统。该系统利用“分布式”技术，将手机、电脑、平板、电视、汽车和智能穿戴等多款设备融合成一个“超级终端”，使用户便于操作和共享各种设备的资源。
+> 鸿蒙（即 HarmonyOS，开发代号 Ark，正式名称为华为终端鸿蒙智能设备操作系统软件）是华为公司自 2012 年以来开发的一款可支持鸿蒙原生应用和兼容 AOSP 应用的分布式操作系统。该系统利用“分布式”技术，将手机、电脑、平板、电视、汽车和智能穿戴等多款设备融合成一个“超级终端”，使用户便于操作和共享各种设备的资源。
 >                                            - wikipedia
 
 Here we provided:
 
-- [HarmonyOS GitHub Action Example](https://github.com/harmonyos-dev/harmonyos-github-action-example)
+- [HarmonyOS GitHub Action](https://github.com/harmonyos-dev/setup-harmonyos-sdk)
+- [Highlight.js ArkTS](https://github.com/harmonyos-dev/highlightjs-arks)
 - [HarmonyOS with AIGC augment](https://github.com/harmonyos-dev/harmonyos-github-action-example)
-- Some HarmonyOS projects
+- [HarmonyOS projects](https://github.com/harmonyos-dev/harmonyos-codelabs)
 
 官方材料：
 
