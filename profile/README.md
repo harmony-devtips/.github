@@ -1,3 +1,5 @@
+# 千帆竞发，星河灿烂
+
 🚀 Welcome to our intergalactic hub for aspiring Harmony OS developers! 🌌 What we offer:
 
 ## 🎓 Stellar tutorials and resources to level up your Harmony OS skills
@@ -12,6 +14,8 @@
 ## 💡 Out-of-this-world ideas and projects to spark your creativity
 
 - [HarmonyOS with AIGC augment](https://github.com/harmonyos-dev/harmonyos-github-action-example)
+
+Join our stellar community and let's code the future together! 🌟✨
 
 <!--
 
